@@ -6,6 +6,15 @@ Smooth animations and a responsive UI make it easy to use across devices.
 
 ---
 
+## 🚀 Live Demo
+
+Check out the live app here:  
+![Live Demo](https://todo-app-imran2304.vercel.app)
+
+---
+
+
+
 ## ✨ Features
 - ➕ Add new tasks with a due date  
 - 🗑️ Delete tasks with a smooth animation  
