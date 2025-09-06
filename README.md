@@ -30,3 +30,21 @@ Smooth animations and a responsive UI make it easy to use across devices.
    ```bash
    git clone https://github.com/imran2304/todo-app.git
    cd todo-app
+
+2. Install dependencies:
+   npm install
+3. Run locally:
+   npm run dev
+4. Open your browser at the URL Vite provides (usually http://localhost:5173)
+
+✨ Contribution
+Fork the repository
+Make improvements or bug fixes
+Submit a pull request
+
+
+📄 License
+This project is open-source and free to use.
+
+
+
