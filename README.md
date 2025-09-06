@@ -6,10 +6,9 @@ Smooth animations and a responsive UI make it easy to use across devices.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo 
 
-Check out the live app here:  
-![Live Demo](https://todo-app-imran2304.vercel.app)
+Check out the live app here: [https://todo-app-imran2304.vercel.app](https://todo-app-imran2304.vercel.app)
 
 ---
 
