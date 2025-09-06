@@ -28,5 +28,5 @@ Smooth animations and a responsive UI make it easy to use across devices.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/imranmd/todo-app.git
+   git clone https://github.com/imran2304/todo-app.git
    cd todo-app
